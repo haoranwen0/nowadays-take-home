@@ -1,0 +1,149 @@
+"venue_name","rooms","rates","email","phone","website","region","city","address"
+"Boston Harbor Hotel",232,"$698-$1,517","reservations@bostonharborhotel.com","+1 617-439-7000","http://www.bostonharborhotel.com","Massachusetts","Boston","70 Rowes Wharf on Atlantic Ave, Boston, MA 02110"
+"Four Seasons Hotel Boston",273,"$853-$4,803","reservations.bos@fourseasons.com","+1 617-338-4400","https://www.fourseasons.com/boston/","Massachusetts","Boston","200 Boylston Street, Boston, MA 02116"
+"Four Seasons One Dalton Street",217,NULL,NULL,"+1 617-530-1388",NULL,"Massachusetts","Boston","1 Dalton Street, Boston, MA 02155"
+"The Langham, Boston",317,NULL,"tlbos.info@langhamhotels.com","+1 617-451-1900","https://www.langhamhotels.com/en/the-langham/boston","Massachusetts","Boston","250 Franklin Street, Boston, MA 02110"
+"Mandarin Oriental, Boston",148,"$841-$2,566","mobos-reservations@mohg.com","+1 617-535-8888","https://www.mandarinoriental.com/boston/back-bay/luxury-hotel","Massachusetts","Boston","776 Boylston Street, Boston, MA 02199"
+"The Ritz-Carlton, Boston",193,"$898-$1,019","RC-Bostonleads@ritzcarlton.com","+1 617-574-7100","https://www.ritzcarlton.com/en/hotels/bosrt-the-ritz-carlton-boston/overview/","Massachusetts","Boston","10 Avery St, Boston, MA 02111"
+"XV Beacon",63,"$606-$2,250","reservations@xvbeacon.com","+1 617-670-1500","https://xvbeacon.com","Massachusetts","Boston","15 Beacon St, Boston, MA 02108"
+"Battery Wharf Hotel, Boston Waterfront",150,"$415-$1,209","contactus@batterywharfhotel.com","+1 617-994-9000","https://www.batterywharfhotelboston.com","Massachusetts","Boston","Three Battery Wharf, Boston, MA 02109"
+"The Eliot Hotel",95,"$384-$527","email@eliothotel.com","+1 617-267-1607","http://www.eliothotel.com","Massachusetts","Boston","370 Commonwealth Ave, Boston, MA 02215"
+"Fairmont Copley Plaza Boston",383,"$552-$4,433","boston@fairmont.com","+1 617-267-5300","https://www.fairmont.com/copley-plaza-boston","Massachusetts","Boston","138 St James Ave, Boston, MA 02116"
+"Hotel Commonwealth",245,NULL,"info@hotelcommonwealth.com","+1 617-933-5000","https://www.hotelcommonwealth.com","Massachusetts","Boston","500 Commonwealth Ave, Boston, MA 02215"
+"InterContinental Boston",424,"$477-$1,188","icboston@ihg.com","+1 617-747-1000","https://www.icbostonhotel.com","Massachusetts","Boston","510 Atlantic Avenue, Boston, MA 02210"
+"The Liberty, a Luxury Collection Hotel",298,"$584-$2,085","reservations@libertyhotel.com","+1 617-224-4000","https://www.marriott.com/en-us/hotels/boslc-the-liberty-a-luxury-collection-hotel-boston/overview/","Massachusetts","Boston","215 Charles St, Boston, MA 02114"
+"W Boston",238,"$599-$2,230","Gurkirat.singh@whotels.com","+1 617-261-8700","https://www.marriott.com/en-us/hotels/boswh-w-boston/overview/","Massachusetts","Boston","100 Stuart St, Boston, MA 02116"
+"The Westin Copley Place Boston",803,"$466-$666","westincopley@westin.com","+1 617-262-9600","https://www.marriott.com/en-us/hotels/boswi-the-westin-copley-place-boston/overview/","Massachusetts","Boston","10 Huntington Ave, Boston, MA 02116"
+"The Bostonian Boston",201,"$417-$655","bostonian@mhrmail.com","+1 617-523-3600","https://www.millenniumhotels.com/en/boston/the-bostonian-boston","Massachusetts","Boston","26 North St, Boston, MA 02109-1509"
+"Boston Marriott Copley Place",1144,"$397-$775","joanne.lynch@marriott.com","+1 617-236-5800","https://www.marriott.com/en-us/hotels/bosco-boston-marriott-copley-place/overview/","Massachusetts","Boston","110 Huntington Avenue, Boston, MA 02116"
+"Boston Marriott Long Wharf",412,"$616-$742",NULL,"+1 617-227-0800",NULL,"Massachusetts","Boston","296 State St, Boston, MA 02109"
+"citizenM Boston North Station Hotel",272,"$179-$599","supportbns@citizenm.com","+1 617-861-4360
+
+Hotel E-mailHotel Website","https://www.citizenm.com/destinations/boston/boston-north-station-hotel","Massachusetts","Boston","70 Causeway St, Boston, MA 02114"
+"Copley Square Hotel",143,"$433-$699","info@copleysquarehotel.com","+1 617-536-9000","https://www.copleysquarehotel.com","Massachusetts","Boston","47 Huntington Ave, Boston, MA 02116"
+"The Godfrey Hotel",242,"$425-$492","info@godfreyhotelboston.com","+1 617-804-2000","https://www.godfreyhotelboston.com/gallery","Massachusetts","Boston","505 Washington St, Boston, MA 02111"
+"Hilton Boston Logan Airport",604,"$421-$984","boslh_ds@hilton.com","+1 617-568-6700","https://www.hilton.com/en/hotels/boslhhh-hilton-boston-logan-airport/","Massachusetts","Boston","1 Hotel Drive, Boston, MA 02128"
+"Hotel AKA Back Bay",225,"$498-$1,130",NULL,"+1 617-266-7200",NULL,"Massachusetts","Boston","154 Berkeley St, Boston, MA 02116"
+"Hotel AKA Boston Common",190,"$514-$1,945","BCguestservices@stayaka.com","+1 617-772-5800","https://www.stayaka.com/hotel-aka-boston-common","Massachusetts","Boston","90 Tremont St, Boston, MA 02108"
+"Hyatt Regency Boston",502,NULL,"qualitybosto@hyatt.com","+1 617-912-1234","https://www.hyatt.com/en-US/hotel/massachusetts/hyatt-regency-boston/bosto","Massachusetts","Boston","One Ave de Lafayette, Boston, MA 02111"
+"Hyatt Regency Boston Harbor",270,NULL,"salesbosha@hyatt.com","+1 617-568-1234","http://bostonharbor.regency.hyatt.com","Massachusetts","Boston","101 Harborside Dr, Boston, MA 02128"
+"The Lenox",214,"$469-$599","info@lenoxhotel.com","+1 617-536-5300","https://www.lenoxhotel.com","Massachusetts","Boston","61 Exeter Street at Boylston, Boston, MA 02116"
+"Omni Boston Hotel at the Seaport",1054,NULL,NULL,"+1 617-476-6664",NULL,"Massachusetts","Boston","450 Summer Street, Boston, MA 02210"
+"Omni Parker House",551,NULL,"reservations@omnihotels.com","+1 617-227-8600","https://www.omnihotels.com/hotels/boston-parker-house","Massachusetts","Boston","60 School St, Boston, MA 02108"
+"Onyx Boston Downtown, Curio Collection",112,NULL,"talktous@onyxhotel.com","+1 617-557-9955","https://www.hilton.com/en/hotels/bosdoqq-onyx-boston-downtown/","Massachusetts","Boston","155 Portland St, Boston, MA 02114-1702"
+"Renaissance Boston Waterfront Hotel",471,"$329-$595",NULL,"+1 617-338-4111",NULL,"Massachusetts","Boston","606 Congress St, Boston, MA 02210"
+"Revere Hotel Boston Common",356,"$446-$702","info@reverehotel.com","+1 617-482-1800","http://www.RevereHotel.com","Massachusetts","Boston","200 Stuart St, Boston, MA 02116"
+"Seaport Hotel Boston",428,NULL,"info@seaportboston.com","+1 617-385-4000","https://www.seaportboston.com/","Massachusetts","Boston","One Seaport Lane, Boston, MA 02210"
+"Westin Boston Seaport District",793,NULL,"waterfront.sales@westin.com","+1 617-532-4600","https://www.marriott.com/hotels/travel/bosow-the-westin-boston-seaport-district","Massachusetts","Boston","425 Summer St, Boston, MA 02210"
+"White Hart Hotel",26,"$61-$186","i.diggins@innmail.co.uk","+44 1205-311900","http://www.whitehartboston.com","England","Boston","1-5 High St., Bridge Foot, Boston, England PE21 8SH"
+"Beacon Hill Hotel & Bistro",12,"$401-$499","stay@beaconhillhotel.com","+1 617-723-7575","http://www.beaconhillhotel.com","Massachusetts","Boston","25 Charles St, Beacon Hill, Boston, MA 02114"
+"Cambria Hotel Boston Downtown",156,"$159-$799",NULL,"+1 617-752-6681",NULL,"Massachusetts","Boston","6 West Broadway, Boston, MA 02127"
+"Canopy by Hilton Boston Downtown",212,NULL,NULL,"+1 857-758-4410Toll Free: +844-MY-CANOPY
+
+Hotel Website",NULL,"Massachusetts","Boston","99 Blackstone Street, Boston, MA 02109"
+"Courtyard Boston Downtown/North Station",220,NULL,"ncasillo@marriott.com","+1 617-725-0003","https://www.marriott.com/en-us/hotels/bosne-courtyard-boston-downtown-north-station/overview","Massachusetts","Boston","107 Beverly St, Boston, MA 02114"
+"Club Quarters in Boston",178,"$323-$415","memberservices@clubquarters.com","+1 617-357-6400","http://www.clubquarters.com/boston","Massachusetts","Boston","161 Devonshire, Boston, MA 02110"
+"Courtyard Boston Logan Airport",351,"$246-$399",NULL,"+1 617-569-5250",NULL,"Massachusetts","Boston","225 William F McClellan Hwy, Boston, MA 02128"
+"Courtyard by Marriott Boston Downtown",314,NULL,"cy.bosdm.gm@marriott.com","+1 617-426-1400","https://www.marriott.com/en-us/hotels/bosdm-courtyard-boston-downtown/overview/","Massachusetts","Boston","275 Tremont Street, Boston, MA 02116"
+"The Dagny",403,"$229-$531",NULL,"+1 617-556-0006",NULL,"Massachusetts","Boston","89 Broad St, Boston, MA 02110"
+"DoubleTree by Hilton Boston-Downtown",267,"$372-$525","boston_rsc@hilton.com","+1 617-956-7900","http://www.hilton.com/en/hotels/boscodt-doubletree-boston-downtown","Massachusetts","Boston","821 Washington Street, Boston, MA 02111"
+"DoubleTree Suites Hotel Boston-Cambridge",308,"$337-$927","boston_rsc@hilton.com","+1 617-783-0090","http://www.hilton.com/en/hotels/bossbdt-doubletree-suites-boston-cambridge","Massachusetts","Boston","400 Soldiers Field Road, Boston, MA 02134-1893"
+"Embassy Suites Boston - at Logan Airport",282,"$349-$443",NULL,"+1 617-567-5000",NULL,"Massachusetts","Boston","207 Porter St, Boston, MA 02128"
+"Harborside Inn",200,"$109-$449","info@harborsideinnboston.com","+1 617-723-7500","https://www.harborsideinnboston.com/","Massachusetts","Boston","185 State St, Boston, MA 02109"
+"Hilton Boston Back Bay",390,"$329-$950","bosbh-salesadm@hilton.com","+1 617-236-1100","https://www.hilton.com/en/hotels/bosbhhh-hilton-boston-back-bay/","Massachusetts","Boston","40 Dalton St, Boston, MA 02115"
+"Hilton Boston Park Plaza",1060,"$420-$1,090","BOSSR_HOTEL@hilton.com","+1 617-426-2000","https://www.hilton.com/en/hotels/bossrhh-hilton-boston-park-plaza/","Massachusetts","Boston","50 Park Plaza, Boston, MA 02116"
+"Hilton Garden Inn Boston Logan Airport",261,NULL,NULL,"+1 617-567-6789",NULL,"Massachusetts","Boston","100 Boardman Street, Boston, MA 02128"
+"Hyatt Place Boston Seaport District",297,NULL,NULL,"+1 857-328-1234",NULL,"Massachusetts","Boston","295 Northern Avenue, Boston, MA 02210"
+"Moxy Boston Downtown",340,"$149-$799",NULL,"+1 617-793-4200",NULL,"Massachusetts","Boston","240 Tremont St, Boston, MA 02116"
+"Residence Inn Boston Harbor Tudor Wharf",167,NULL,NULL,"+1 617-242-9000",NULL,"Massachusetts","Boston","34-44 Charles River Ave, Boston, MA 02129"
+"Sheraton Boston Hotel",1070,"$415-$609","boston.sales@sheraton.com","+1 617-236-2000","https://www.marriott.com/en-us/hotels/bosbo-sheraton-boston-hotel/overview/","Massachusetts","Boston","39 Dalton St, Boston, MA 02199"
+"Studio Allston Hotel",117,"$149-$899","sales@hotelstudioallston.com","+1 617-206-1848","https://www.hotelstudioallston.com","Massachusetts","Boston","1234 Soldiers Field Rd, Boston, MA 02135"
+"Wyndham Boston Beacon Hill",304,NULL,"pcraig@pyramidglobal.com","+1 617-742-7630","http://wyndhambeaconhill.com","Massachusetts","Boston","5 Blossom St, Boston, MA 02114"
+"YOTEL Boston",326,"$399-$399","contact.boston@yotel.com","+1 617-377-4747","https://www.yotel.com/en/hotels/yotel-boston?YotelBookingAlt=true&utm_expid=.35e8X7zGTwGeZhjBtxS6Lw.1&utm_referrer=","Massachusetts","Boston","65 Seaport Blvd, Boston, MA 02210"
+"Marriott Vacation Club Pulse, Boston",84,NULL,NULL,"+1 617-310-6300",NULL,"Massachusetts","Boston","3 McKinley Square, Boston, MA 02109"
+"Newbury Guest House",35,"$383-$390","FrontDesk@newburyguesthouse.com","+1 617-670-6000","https://www.newburyguesthouse.com","Massachusetts","Boston","261 Newbury St, Boston, MA 02116"
+"Residence Inn Boston Back Bay/Fenway",175,NULL,"bosfnfrontdesk@gmail.com","+1 617-236-87870","https://www.marriott.com/en-us/hotels/bosfn-residence-inn-boston-back-bay-fenway/overview/","Massachusetts","Boston","125 Brookline Avenue, Boston, MA 02215"
+"Residence Inn Boston/Downtown/Seaport",120,NULL,NULL,"+1 617-478-0840",NULL,"Massachusetts","Boston","370 Congress St, Boston, MA 02210"
+"Residence Inn Boston Downtown/South End",135,"$117-$184",NULL,"+1 857-776-3000",NULL,"Massachusetts","Boston","2001 Washington Street, Boston, MA 02119"
+"Best Western Plus Boston Hotel",92,NULL,"22046@hotel.bestwestern.com","+1 617-989-1000","https://www.bestwestern.com/content/best-western/en_US/booking-path/hotel-details.22046.html","Massachusetts","Boston","891 Massachusetts Ave, Boston, MA 02118"
+"The Boxer Boston",80,"$418-$522","info@theboxerboston.com","+1 617-624-0202","https://www.theboxerboston.com","Massachusetts","Boston","107 Merrimac St, Boston, MA 02114"
+"Charlesmark Hotel",40,"$347-$388","info@charlesmarkhotel.com","+1 617-247-1212","http://www.charlesmarkhotel.com","Massachusetts","Boston","655 Boylston St, Boston, MA 02116"
+"Courtyard Boston-South Boston",164,NULL,NULL,"+1 617-436-8200",NULL,"Massachusetts","Boston","63 R Boston St, Boston, MA 02125"
+"Courtyard by Marriott at Copley Square",81,"$404-$559","info@courtyardboston.com","+1 617-437-9300","https://www.marriott.com/hotels/travel/bosdt-courtyard-boston-copley-square","Massachusetts","Boston","88 Exeter St, Boston, MA 02116"
+"DoubleTree by Hilton Boston Bayside",197,"$287-$409","boston_rsc@hilton.com","+1 617-822-3600","http://www.hilton.com/en/hotels/boschdt-doubletree-boston-bayside","Massachusetts","Boston","240 Mount Vernon Street, Boston, MA 02125"
+"Home2 Suites by Hilton Boston",NULL,NULL,NULL,"+1 617-314-1037Toll Free: +877-646-6302
+
+Hotel Website",NULL,"Massachusetts","Boston","15 Jan Karski Way, Boston, MA 02125"
+"Homewood Suites Boston at the Seaport",164,NULL,NULL,"+1 857-356-3033Toll Free: +800-225-5466
+
+Hotel Website",NULL,"Massachusetts","Boston","670 Summer Street, Boston, MA 02210"
+"Hotel Indigo Boston Garden",72,NULL,"stay@indigoboston.com","+1 617-720-5544","https://www.ihg.com/hotelindigo/hotels/us/en/boston/bosfs/hoteldetail","Massachusetts","Boston","280 Friend St, Boston, MA 02114"
+"The Inn at Longwood Medical",155,"$169-$309","info@innatlongwood.com","+1 617-731-4700","https://www.innatlongwood.com","Massachusetts","Boston","342 Longwood Ave, Boston, MA 02115"
+"Premier Inn Boston",73,"$52-$52","Boston.PI@premierinn.com","+44 3337-773927","https://www.premierinn.com/gb/en/hotels/england/lincolnshire/boston/boston.html?cid=GLBC_BOSBUR","England","Boston","Wainfleet Road, Boston, England PE21 9RW"
+"Ramada Boston",163,"$99-$99","ramadafd@bostonhotel.com","+1 617-379-3902","https://www.wyndhamhotels.com/ramada/boston-massachusetts/ramada-boston/overview","Massachusetts","Boston","800 Morrissey Blvd, Boston, MA 02122"
+"Boston Hotel Buckminster",132,"$237-$442","reservations@bostonhotelbuckminster.com","+1 617-236-7050","http://www.bostonhotelbuckminster.com","Massachusetts","Boston","645 Beacon St, Boston, MA 02215-3201"
+"Charles River Inn",58,"$169-$169",NULL,"+1 617-872-8001
+
+Hotel Website",NULL,"Massachusetts","Boston","1800 Soldiers Field Rd, Boston, MA 02135"
+"Comfort Inn",132,NULL,NULL,"+1 617-287-9200",NULL,"Massachusetts","Boston","900 Morrissey Blvd, Boston, MA 02122"
+"Hampton Inn Boston Seaport District",252,NULL,NULL,"+1 857-356-3033Toll Free: +800-426-7866
+
+Hotel Website",NULL,"Massachusetts","Boston","670 Summer St, Bldg 1, Boston, MA 02210"
+"Hotel 140",65,"$200-$319","sales@hotel140.com","+1 617-585-5600","http://www.hotel140.com","Massachusetts","Boston","140 Clarendon St, Boston, MA 02116"
+"Hotel Boston",74,"$119-$359","hotelbostongm@gmail.com","+1 617-566-6260","https://www.hotelboston.com","Massachusetts","Boston","40 Mt. Hood Rd, Boston, MA 02135"
+"Midtown Hotel",159,"$179-$184","gm@midtownhotel.com","+1 617-262-1000","http://www.midtownhotel.com","Massachusetts","Boston","220 Huntington Ave, Boston, MA 02115"
+"Supreme Inns Hotel, Boston",55,"$65-$98","enquiries@supremeinns.co.uk","+44 1205-822804
+
+Hotel E-mailHotel Website","http://www.supremeinns.co.uk/","England","Boston","Donington Rd, Bicker Bar, Boston, England PE20 3AN"
+"Sonder at Pierce Boston",NULL,NULL,NULL,"+1 617-300-0956
+
+Hotel Website",NULL,"Massachusetts","Boston","200 Brookline Ave, Boston, MA 02215"
+"Raffles Boston Back Bay Hotel",NULL,NULL,"boston@raffles.com","+1 617-351-8888","https://www.rafflesboston.com/","Massachusetts","Boston","40 Trinity Place, Boston, MA 02116"
+"The Revolution Hotel",NULL,NULL,"info@therevolutionhotel.com","+1 617-848-9200Toll Free: +877-239-0882
+
+Hotel E-mailHotel Website","https://therevolutionhotel.com","Massachusetts","Boston","40 Berkeley St, Boston, MA 02116"
+"Sonder No. 284 Back Bay",NULL,NULL,NULL,"+1 617-300-0956
+
+Hotel Website",NULL,"Massachusetts","Boston","284 Commonwealth Ave, Boston, MA 02115"
+"The Whitney Hotel",NULL,NULL,"reception@whitneyhotelboston.com","+1 617-367-1866","https://www.whitneyhotelboston.com","Massachusetts","Boston","170 Charles Street, Boston, MA 02114-3253"
+"Abercrombie's Farrington Inn",36,"$45-$45","farringtoninnjohn@gmail.com","+1 617-787-1860","http://farringtoninn.com","Massachusetts","Boston","23 Farrington Ave, Boston, MA 02134"
+"1330 Boylston",NULL,NULL,"1330boylston@samuelsre.com","+1 617-267-1330","https://www.1330boylston.com","Massachusetts","Boston","1330 Boylston St, Boston, MA 02215"
+"14 Union Park Bed & Breakfast",NULL,NULL,"info@14unionpark.com","+1 617-236-6961","http://www.14unionpark.com","Massachusetts","Boston","14 Union Park, Boston, MA 02118"
+"Aloft Boston Seaport District",NULL,NULL,NULL,"+1 617-530-1600",NULL,"Massachusetts","Boston","401–403 D Street, Boston, MA 02210"
+"Boston Harbor View Suites",NULL,NULL,NULL,"+1 857-770-2787",NULL,"Massachusetts","Boston","1 Park Lane, Boston, MA 02210"
+"Boston West Hotel & Golf",NULL,NULL,"info@bostonwest.co.uk","+44 1205-290105
+
+Hotel E-mailHotel Website","https://www.awayresorts.co.uk/parks/lincolnshire/boston-west","England","Boston","Boston West, Hubbert's Bridge Lincolnshire, Boston, England PE20 3QX"
+"Charles Street Inn",NULL,NULL,"info@charlesstreetinn.com","+1 617-314-8900","http://charles-street-inn.bostonhotelsmotels.com/en/#map","Massachusetts","Boston","94 Charles St, Boston, MA 02114"
+"Churchill at Fenway Triangle T",NULL,NULL,"fenwaytriangle@samuelsre.com",NULL,"https://fenwaytriangle.com","Massachusetts","Boston","180 Brookline Ave, Boston, MA 02115"
+"Churchill At Garrison Square",NULL,NULL,NULL,"+1 617-449-9803
+
+Hotel Website",NULL,"Massachusetts","Boston","7 Harcourt Street, Boston, MA 02116"
+"Churchill at The Kensington",NULL,NULL,"boston@churchillliving.com","+1 973-949-7124Toll Free: +800-205-9646
+
+Hotel E-mailHotel Website","https://www.furnishedhousing.com/furnished-apartment-37472.html","Massachusetts","Boston","665 Washington St, Boston, MA 02111"
+"Churchill at The Serenity",NULL,NULL,NULL,"+1 855-277-1900
+
+Hotel Website",NULL,"Massachusetts","Boston","101 S. Huntington Ave, Boston, MA 02130"
+"citizenM Boston Back Bay Hotel",NULL,NULL,NULL,"+1 617-
+
+Hotel Website",NULL,"Massachusetts","Boston","408 Newbury Street, Boston, MA"
+"Clarendon Square Inn B & B",NULL,NULL,"STAY@CLARENDONSQUARE.COM","+1 617-536-2229
+
+Hotel E-mailHotel Website","http://www.clarendonsquare.com","Massachusetts","Boston","198 W Brookline St, Boston, MA 02118"
+"Copley House",NULL,NULL,"info@copleyhouse.com","+1 617-236-8300","http://www.copleyhouse.com","Massachusetts","Boston","239 W Newton St, Boston, MA 02116"
+"Element Boston Seaport District",NULL,NULL,NULL,"+1 617-530-1700",NULL,"Massachusetts","Boston","391-395 D Street, Boston, MA 02210"
+"enVision Hotel Boston, Ascend Collection",NULL,NULL,"gm.ma199@choicehotels.com","+1 617-383-5229","https://www.choicehotels.com/en-ca/massachusetts/boston/ascend-hotels/ma199","Massachusetts","Boston","81 S Huntington Ave, Boston, MA 02130"
+"The Envoy Hotel, Autograph Collection",NULL,NULL,NULL,"+1 617-338-3030",NULL,"Massachusetts","Boston","70 Sleeper St, Boston, MA 02210"
+"Green Turtle Floating Bed & Breakfast",NULL,NULL,"innkeeper@greenturtlebb.com","+1 617-337-0202
+
+Hotel E-mailHotel Website","http://www.greenturtlebb.com/","Massachusetts","Boston","Shipyard Quarters Marina, 1 Pier 8 13t, Boston, MA 02129"
+"The Gryphon House",NULL,NULL,"innkeeper@innboston.com","+1 617-375-9003","http://www.gryphonhouseboston.com","Massachusetts","Boston","9 Bay State Rd, Boston, MA 02215"
+"Hyatt Centric Faneuil Hall Boston",NULL,NULL,NULL,"+1 617-720-1234",NULL,"Massachusetts","Boston","68 Devonshire St, Boston, MA 02109"
+"Inn On Thistle Hill & Wellness Center",NULL,NULL,"Innkeeper@TheInnOnThistleHill.com","+1 540-987-9357
+
+Hotel E-mailHotel Website","http://www.theinnonthistlehill.com/","Virginia","Boston","5541 Sperryville Pike, Boston, VA 22713"
+"Park Lane Seaport Apartments",NULL,NULL,"ncatanzaro@marriottexecustayhartford.com","+1 844-309-2599","https://www.parklaneseaport.com","Massachusetts","Boston","One Park Lane, Boston, MA 02210"
+"The Newbury Boston",NULL,NULL,"Hello@TheNewburyBoston.com","+1 617-536-5700","https://www.thenewburyboston.com/","Massachusetts","Boston","One Newbury Street, Boston, MA 02116"
+"New England Hotel",NULL,NULL,"info@newenglandhotelboston.co.uk","+44 1205-365255","http://www.newenglandhotelboston.co.uk/","England","Boston","49 Wide Bargate, Boston, England PE21 6SH"
+"Oasis Guest House",NULL,NULL,"info@oasisgh.com","+1 617-267-2262","http://www.oasisgh.com","Massachusetts","Boston","22 Edgerly Rd, Boston, MA 02115"
